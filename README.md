@@ -16,8 +16,9 @@ How to run the code;
   - The first variant only works for a single calculation, hence comment the other variant. 
   - The second variant only works with multiple calculations, hence commet the other variant. 
 
-#To do
+## To do
 1. Modify the "Error on the averages" section to work for not just a single calculation. 
 2. Add error calculations for each ring size. 
 3. Add error bars to the histogram. 
 4. Adjust the code so that only one variant of plotting is needed.  
+5. Add plotting code for all the densities. 
