@@ -11,7 +11,7 @@ How to run the code;
 5. If more than one calculation is being analysed uncomment the "Average of all the calculations" section.
   - This will provide an average of all the calculations. 
 6. The section for "Errors on the averages" only works on a single calculation for now, hence, if more than one calculation is being analysed comment that part. 
-7. Saving the data is at it states, to save the data in a .csv file. Make sure to change the name to something sensible. 
+7. "Saving the data" is, as it states, to save the data in a .csv file. Make sure to change the name to something sensible. 
 8. For plotting the data there are two variants;
   - The first variant only works for a single calculation, hence comment the other variant. 
   - The second variant only works with multiple calculations, hence commet the other variant. 
