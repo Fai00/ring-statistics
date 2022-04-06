@@ -22,7 +22,7 @@ How to run the code;
 3. Add error bars to the histogram. 
 4. Adjust the code so that only one variant of plotting is needed.  
 5. Add plotting code for all the densities. 
-6.
+
 ## Bibliography
 
 [1]. Clark, S. J., M. D. Segall, C. J. Pickard, P. J.J. Hasnip, K. Refson, and M.C. Payne. ‘First Principles Methods Using CASTEP’. Z. Kristall. 220 (2005): 567–70.
